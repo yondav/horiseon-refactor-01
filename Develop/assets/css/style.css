@@ -80,7 +80,7 @@ main {
     margin-left: 20px;
 }
 
-section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,12 +89,12 @@ section {
     color: #ffffff; 
 }
 
-section h2 {
+main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-section img {
+main section img {
     max-height: 200px;
 }
 
@@ -123,17 +123,17 @@ aside {
     background-color: #2589bd;
 }
 
-.aside-cards {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.aside-cards h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;   
 }
 
-.aside-cards img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
