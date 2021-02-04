@@ -63,13 +63,13 @@ figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /***************************
-Main Styles - .main-cards = each container inside main tag
+Main Styles - section = each container inside main tag
               .float-left = images on the left side of respective container
               .float-right = images on the right side of respective container
 ***************************/
@@ -80,7 +80,7 @@ main {
     margin-left: 20px;
 }
 
-.main-cards {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,12 +89,12 @@ main {
     color: #ffffff; 
 }
 
-.main-cards h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.main-cards img {
+section img {
     max-height: 200px;
 }
 
