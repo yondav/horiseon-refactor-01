@@ -29,7 +29,7 @@ Subsequently I was able to consolidate the linked CSS stylesheet to offer ease f
 <div style="text-align:center; margin: 50px">
 <img src="assets/lighthouse-report.png" width="350">
 
-After the refactor, lighthouse reports that the SEO performance and Best Practices are perfect while Accessibility is just below because the contrast ratio isn't high enough. If I had more freedom to style the website in the assignment, I'd have increased the contrast to ensure the content is easy to read and further increasing the accessibility.
+After the refactor, lighthouse reports that the SEO performance and Best Practices are perfect while Accessibility is just below because the contrast ratio isn't high enough. If I had more freedom to style the website in the assignment, I'd have increased the contrast to ensure the content is easy to read, further increasing the accessibility.
 </div>
 
 ### Please follow these steps to navigate the repository
