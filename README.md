@@ -4,9 +4,11 @@
 
 Horiseon is an agency offering social solution services to a wide range of businesses.
 
-![code refactor demo](./assets/01-html-css-git-homework-demo.png)
+<div style="text-align:center">
+    <img src="assets/01-html-css-git-homework-demo.png" width="350"/>
 
 [Deployed Webpage: https://yondav.github.io/horiseon-refactor-01/](https://yondav.github.io/horiseon-refactor-01/)
+</div>
 
 ## Horiseon Services
 - Search Engine Optimization (SEO)
